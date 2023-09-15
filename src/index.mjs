@@ -26,13 +26,13 @@ document.getElementById("app").innerHTML = `
 <div id="json">
 <h1>Car Properties</h1>
 <table border="1">
-    <th>
+    <thead>
         <tr>
             <th>Property</th>
             <th>Car 1</th>
             <th>Car 2</th>
         </tr>
-    </th>
+    </thead>
     <tbody>
         <tr>
             <td>Color</td>
