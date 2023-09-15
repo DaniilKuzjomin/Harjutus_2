@@ -52,7 +52,7 @@ document.getElementById("app").innerHTML = `
         <tr>
             <td>Roof cargo</td>
             <td>${myjson[0].Car["Roof cargo"]}</td>
-            <td>${myjson[0].Car2["Roof cargo"]'}</td>
+            <td>${myjson[0].Car2["Roof cargo"]}</td>
         </tr>
         <tr>
             <td>Entertainment</td>
