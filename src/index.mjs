@@ -23,7 +23,7 @@ const myjson = [
 ];
 
 document.getElementById("app").innerHTML = `
-<div id="app">
+<div id="json">
 <h1>Car Properties</h1>
 <table border="1">
     <th>
