@@ -26,13 +26,13 @@ document.getElementById("app").innerHTML = `
 <div id="app">
 <h1>Car Properties</h1>
 <table border="1">
-    <thead>
+    <th>
         <tr>
             <th>Property</th>
             <th>Car 1</th>
             <th>Car 2</th>
         </tr>
-    </thead>
+    </th>
     <tbody>
         <tr>
             <td>Color</td>
